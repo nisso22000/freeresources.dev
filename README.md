@@ -16,29 +16,29 @@ Welcome to **FreeResources.dev**, your go-to platform for free temporary VPS! �
 
 ## 💡 What You Can Do
 
-### **Learn Linux**
+### **Learn Linux** 🐧
 
-1. **Choose a Linux Distribution**
-2. **Launch VPS**
-3. **Mess It Up**
-4. **Terminate and Launch a New One**
-5. **Repeat**
+1. **Choose a Linux Distribution** 📦
+2. **Launch VPS** 🚀
+3. **Mess It Up** 🔧
+4. **Terminate and Launch a New One** ♻️
+5. **Repeat** 🔄
 
-### **Learn Hacking (Ethically, Of Course)**
+### **Learn Hacking (Ethically, Of Course)** 🕵️‍♂️
 
-- **Ethical Hacking Practice**: Spin ap a **Kali Linux** instance to test and improve your ethical hacking skills.
+- **Ethical Hacking Practice**: Spin up a **Kali Linux** instance to test and improve your ethical hacking skills. 💻🔐
 
-### **Deploy Live Containers**
+### **Deploy Live Containers** 🐳
 
-- **One-Click Deployment**: Deploy live Docker containers with a single clickt.
+- **One-Click Deployment**: Deploy live Docker containers with a single click. 👆
 
-### **Set Up Temporary Proxy Server**
+### **Set Up Temporary Proxy Server** 🌐
 
-- **Instant Proxy Setup**: Quickly configure and use a temporary proxy server for your browsing needs.
+- **Instant Proxy Setup**: Quickly configure and use a temporary proxy server for your browsing needs. 🛡️
 
-### **And More in the Quick Spin Tab**
+### **And More in the Quick Spin Tab** ⚡
 
-- **Explore More Features**: Check out the Quick Spin tab for additional tools and features tailored to your needs.
+- **Explore More Features**: Check out the Quick Spin tab for additional tools and features tailored to your needs. 🔍
 
 
 ## 📚 How It Works
