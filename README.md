@@ -65,7 +65,7 @@ If you appreciate our service and want to support our work, consider buying us a
 ## 🤝 Contact
 
 - **Email**: contact@freeresources.dev
-- 
+ 
 Thank you for your support and happy resource exploration! 🙌
 
 ---
