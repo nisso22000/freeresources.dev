@@ -51,7 +51,7 @@ Welcome to **FreeResources.dev**, your go-to platform for free temporary VPS! �
 
 If you appreciate our service and want to support our work, consider buying us a coffee! ☕
 
-[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=coffee&slug=therealserver&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_color=ffffff)](https://www.buymeacoffee.com/therealserver)
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=coffee&slug=freeresources.dev&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_color=ffffff)](https://www.buymeacoffee.com/freeresources.dev)
 
 ## 📈 Get Involved
 
